@@ -8,4 +8,10 @@ Sample website with plenty of files for demos
 
 ## Other Stuff
 
+ummmmmmmmmmmmmmm
+
 ## BRUH
+
+what do i put here
+
+eddittttt
