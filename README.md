@@ -15,3 +15,7 @@ ummmmmmmmmmmmmmm
 what do i put here
 
 eddittttt
+
+##COPYRIGHT
+
+mine
