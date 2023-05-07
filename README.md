@@ -20,7 +20,7 @@ eddittttt
 
 ##COPYRIGHT
 
-mine
+mine. emergency fix
 
 ##HOW TO CONTRIBUTE
 
