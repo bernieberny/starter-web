@@ -9,6 +9,7 @@
 # THANKS
 
     Thanks to myself for learning this all solololololo
+	adding for stashing example
 	
 
 # TECHNOLOGY COLOPHON
